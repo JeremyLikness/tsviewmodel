@@ -1,0 +1,16 @@
+{
+  "name": "tsviewmodel",
+  "version": "1.0.0",
+  "description": "ViewModel example in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "@JeremyLikness",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
